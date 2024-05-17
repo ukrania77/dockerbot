@@ -50,6 +50,9 @@ Para hacer funcionar este proyecto necistarás añadir al menos la siguiente var
 * [Pyldoras Pythonicas](https://atareao.es/pyldoras)
 * [Historias de un Pythonico](https://atareao.es/python)
 
+##Modificacion
+Este es mi propio fork
+
 ## Feedback
 
 Sabes que amo el feedback, si tienes cualquier idea o sugerencia, por favor, hazmela saber directamente en [atareao.es](https://atareao.es)
